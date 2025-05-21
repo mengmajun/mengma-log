@@ -1,0 +1,5 @@
+baseURL = "https://mengmajun.github.io/" 
+languageCode = 'en-us'
+title = 'mengma Log'
+theme = 'PaperMod'
+publishDir = "docs"
