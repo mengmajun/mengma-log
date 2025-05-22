@@ -1,4 +1,4 @@
-baseURL = "https://github.com/mengmajun/mengma-log/" 
+baseURL = "https://mengmajun.github.io/mengma-log/"
 languageCode = 'en-us'
 title = 'mengma Log'
 theme = 'PaperMod'
