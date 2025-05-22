@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'mengma Log'
 theme = 'PaperMod'
 publishDir = "docs"
+[params.assets]
+disableFingerprinting = true
